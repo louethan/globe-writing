@@ -1,0 +1,53 @@
+{
+  "new_pieces_shown_by_default": true,
+  "pieces": [
+    {
+      "show": true,
+      "title": "China’s scared, too: Behind every power, domestic insecurity lurks",
+      "url": "https://www.theglobeandmail.com/opinion/article-chinas-scared-too-behind-every-power-domestic-insecurity-lurks/",
+      "blurb": "In the Globe and Mail: Chinese President Xi Jinping is expected to visit Washington on Thursday, marking an era of global ascendancy for Beijing.",
+      "image": "https://www.theglobeandmail.com/resizer/v2/NH7E2VTCIFF5BKVMMC736HDJBE.jpg?auth=d953516a38f166686e91081023f6997ec8a1502c39a16f0299a3bd448a2bfcc1&width=1200",
+      "date": "2026-09-19"
+    },
+    {
+      "show": true,
+      "title": "Geography and destiny",
+      "url": "https://www.theglobeandmail.com/business/commentary/article-geography-destiny-canada-europe-germany-us/",
+      "blurb": "In the Globe and Mail, I wrote from Berlin about how, when Canada faces friction with the United States, we tend to rediscover Europe. Every time, the U.S. pulls us back. Will this time be any different?",
+      "image": "https://www.theglobeandmail.com/resizer/v2/GNZVGJPYPVH2HIXKQQHDUYEFGA.jpg?auth=ca8098b1f26b117e1d388c54f6e929109ace2f2ad8e105e8243e1faaff6015de&width=1200",
+      "date": "2025-09-26"
+    },
+    {
+      "show": true,
+      "title": "What will you sacrifice for Carney and country?",
+      "url": "https://www.theglobeandmail.com/business/commentary/article-prosperitys-path-what-will-you-sacrifice-for-carney-and-country/",
+      "blurb": "I re-launched the Prosperity’s Path series in 2025 and wrote the first piece in it. I wrote about sacrifice: America’s second president, John Adams, once told his wife: “I must study politics and war, that our sons may have liberty to study mathematics and philosophy … in order to give their children a right to study painting, poetry, music.”",
+      "image": "",
+      "date": "2025-11-17"
+    },
+    {
+      "show": true,
+      "title": "Inside a crypto heist: Hamilton youth who stole $48-million strikes again",
+      "url": "https://www.theglobeandmail.com/business/article-crypto-heist-hamilton-youth-strikes-again/",
+      "blurb": "Police said it was the most cryptocurrency ever stolen from an individual. Then the young Canadian criminal hacked X and major NFT artists. A tale of deception, thievery and betrayal.",
+      "image": "https://www.theglobeandmail.com/resizer/v2/6GSKAM6MG5CGDET7OOKI6YFWL4.jpg?auth=5dd2e6c493634aa257bf9372d4d82607dad588a1884749bf926ea529d79b0cc0&width=1200",
+      "date": "2025-08-22"
+    },
+    {
+      "show": true,
+      "title": "The curious incident of the shrinking Gatorade in the night-time of high inflation",
+      "url": "https://www.theglobeandmail.com/investing/article-gatorade-shrinkflation-inflation-prices/",
+      "blurb": "In the Globe and Mail, I wrote about how a can of Gatorade powder, with the same formula and volume as before, now yields a whole litre less drink — so that people use it up faster? I set out to do some serious investigative journalism, delving deep into this unyieldingly critical issue of our time.",
+      "image": "",
+      "date": "2023-08-12"
+    },
+    {
+      "show": true,
+      "title": "Taiwan’s sorrow",
+      "url": "https://www.theglobeandmail.com/opinion/article-taiwans-sorrow-china-the-march-of-history-and-the-inevitable-clash/",
+      "blurb": "In the Globe and Mail, I wrote about history and why it points to an inevitable clash between China, Taiwan and the world.",
+      "image": "",
+      "date": "2024-01-05"
+    }
+  ]
+}
